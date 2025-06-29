@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "444354096088",
+    "project_id": "fishpond-suviko",
+    "storage_bucket": "fishpond-suviko.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444354096088:android:d218785a00d6d52173a0ad",
+        "android_client_info": {
+          "package_name": "com.example.fishpond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444354096088-bqtqvbv4f5ufc71om63cul38aojbut5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgqIlLyv744SAZzilmIQLeIf1cOz9IWKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444354096088-bqtqvbv4f5ufc71om63cul38aojbut5p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444354096088-465dtenjjli5beua7sa2un013duuf8l6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.suviko.fishpond"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444354096088:android:f2dc4f6ff51218d773a0ad",
+        "android_client_info": {
+          "package_name": "com.suviko.fishpond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444354096088-edioceso1fa3kls5cqn94gbjnp8cenqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suviko.fishpond",
+            "certificate_hash": "1f647b921e99759c74f05103d5d08d97ab6d7715"
+          }
+        },
+        {
+          "client_id": "444354096088-bqtqvbv4f5ufc71om63cul38aojbut5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgqIlLyv744SAZzilmIQLeIf1cOz9IWKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444354096088-bqtqvbv4f5ufc71om63cul38aojbut5p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444354096088-465dtenjjli5beua7sa2un013duuf8l6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.suviko.fishpond"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
